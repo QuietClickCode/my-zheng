@@ -12,7 +12,6 @@ public class ZhengUpmsRpcServiceApplication {
 
 	//日志记录
 	private static final Logger LOGGER = LoggerFactory.getLogger(ZhengUpmsRpcServiceApplication.class);
-
 	public static void main(String[] args) {
 		LOGGER.info(">>>>> zheng-upms-rpc-service 正在启动 <<<<<");
 		/**
